@@ -1,4 +1,5 @@
-GNU AFFERO GENERAL PUBLIC LICENSE
+GNU AFFERwget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+O GENERAL PUBLIC LICENSE
    Version 3, 19 November 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
